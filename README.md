@@ -7,6 +7,7 @@ AIRA is a modular, multi-agent system built in Python that mimics how a human re
 - Scraping relevant content from top sources
 - Summarizing and synthesizing key insights
 - Delivering a polished, browser-rendered report
+- Output Formats: Terminal AND as a webpage
 <br/>
 Complete workflow: https://raw.githubusercontent.com/ShashwatM3/chatgpt-deep-research/main/assets/workflow.jpeg
 
@@ -18,5 +19,7 @@ Once you clone this repository, you must create and activate a Virtual Environme
 <h3>2. Install the necessary libraries</h3>
 <code>pip install -r requirements.txt</code>
 <h3>3. Export the necessary API keys</h3>
+To be done everytime you start up your virtual env<br/>
 <code>export OPENAI_API_KEY=sk-......</code><br/>
-<code>export SERPAPI_KEY=...........</code>
+<code>export SERPAPI_KEY=...........</code><br/>
+<br/>Alternatively, you could create a .env file and load it in your script
