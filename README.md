@@ -7,15 +7,17 @@ AIRA is a modular, multi-agent system built in Python that mimics how a human re
 - Scraping relevant content from top sources
 - Summarizing and synthesizing key insights
 - Delivering a polished, browser-rendered report
+<br/>
+Complete workflow 👇🏻
+![image](https://github.com/user-attachments/assets/a047c98a-3460-41ff-8402-8b601aa2f263)
 
-<h3>Setting up the Tool</h3>
+<h2>Setting up the Tool</h2>
+<h3>1. Set up Virtual Environment</h3>
 Once you clone this repository, you must create and activate a Virtual Environment<br/>
-<code>python -m venv .venv</code> (You only need to do this once)<br/>
-<code>source .venv/bin/activate</code>
-<br/><br/>
-Install the necessary libraries<br/>
+<code>python -m venv .venv</code> — You only need to do this once<br/>
+<code>source .venv/bin/activate</code> — Do this every time
+<h3>2. Install the necessary libraries</h3>
 <code>pip install -r requirements.txt</code>
-<br/><br/>
-Export the necessary API keys<br/>
-<code>export OPENAI_API_KEY=sk-......</code>
+<h3>3. Export the necessary API keys</h3>
+<code>export OPENAI_API_KEY=sk-......</code><br/>
 <code>export SERPAPI_KEY=...........</code>
