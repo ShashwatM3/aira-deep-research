@@ -10,7 +10,7 @@ AIRA is a modular, multi-agent system built in Python that mimics how a human re
 <br/>
 Complete workflow: https://raw.githubusercontent.com/ShashwatM3/chatgpt-deep-research/main/assets/workflow.jpeg
 
-<h2>Setting up the Tool</h2>
+<h2>Setup</h2>
 <h3>1. Set up Virtual Environment</h3>
 Once you clone this repository, you must create and activate a Virtual Environment<br/>
 <code>python -m venv .venv</code> — You only need to do this once<br/>
