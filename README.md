@@ -8,13 +8,11 @@ AIRA is a modular, multi-agent system built in Python that mimics how a human re
 - Summarizing and synthesizing key insights
 - Delivering a polished, browser-rendered report
 - Output Formats: Terminal AND as a webpage
-<br/>
-Complete workflow: https://raw.githubusercontent.com/ShashwatM3/chatgpt-deep-research/main/assets/workflow.jpeg
-
+<h2>Complete workflow</h2><img src="https://raw.githubusercontent.com/ShashwatM3/chatgpt-deep-research/main/assets/workflow.jpeg" alt="AIRA Workflow" width="600"/>
 <h2>Setup</h2>
 <h3>1. Set up Virtual Environment</h3>
 Once you clone this repository, you must create and activate a Virtual Environment<br/>
-<code>python -m venv .venv</code> — You only need to do this once<br/>
+<code>python -m venv .venv</code> — You only need to do this once<br/> (python3 for Mac users)
 <code>source .venv/bin/activate</code> — Do this every time
 <h3>2. Install the necessary libraries</h3>
 <code>pip install -r requirements.txt</code>
@@ -23,3 +21,5 @@ To be done everytime you start up your virtual env<br/>
 <code>export OPENAI_API_KEY=sk-......</code><br/>
 <code>export SERPAPI_KEY=...........</code><br/>
 <br/>Alternatively, you could create a .env file and load it in your script
+<h3>4. Run the script</h3>
+<code>python Main.py</code> (python3 for Mac users)
