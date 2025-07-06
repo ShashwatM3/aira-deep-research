@@ -14,13 +14,14 @@
 <p><strong>Output Format:</strong> Terminal + HTML report saved to <code>report.html</code> in the same directory</p>
 
 <h3>Complete Workflow</h3>
-<img src="https://raw.githubusercontent.com/ShashwatM3/chatgpt-deep-research/main/assets/workflow.jpeg" alt="AIRA Workflow" width="600"/>
+<img src="https://raw.githubusercontent.com/ShashwatM3/aira-deep-research/main/assets/workflow.jpeg" alt="AIRA Workflow" width="600"/>
 
 <h2>Setup (~ 4 minutes)</h2>
 
 <h3>1. Clone and Navigate to the Project</h3>
-<pre><code>git clone https://github.com/ShashwatM3/chatgpt-deep-research.git
-cd chatgpt-deep-research</code></pre>
+<pre><code>git clone https://github.com/ShashwatM3/aira-deep-research.git
+cd aira-deep-research</code></pre>
+Or click on the <span style="color: green;">green Code button</span> option and download the ZIP
 
 <h3>2. Set up Virtual Environment</h3>
 <p>You only need to do this once:</p>
