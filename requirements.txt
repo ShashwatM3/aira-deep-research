@@ -5,3 +5,4 @@ rich
 python-dotenv
 openai-agents
 google-search-results
+markdown
