@@ -8,8 +8,7 @@ AIRA is a modular, multi-agent system built in Python that mimics how a human re
 - Summarizing and synthesizing key insights
 - Delivering a polished, browser-rendered report
 <br/>
-Complete workflow 👇🏻
-![Workflow](https://raw.githubusercontent.com/ShashwatM3/chatgpt-deep-research/main/assets/workflow.jpeg)
+Complete workflow: https://raw.githubusercontent.com/ShashwatM3/chatgpt-deep-research/main/assets/workflow.jpeg
 
 <h2>Setting up the Tool</h2>
 <h3>1. Set up Virtual Environment</h3>
